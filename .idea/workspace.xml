@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad4b20e-2cbc-4d8b-a21d-b69eee098e8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/test/test.py" afterDir="false" />
+    <list default="true" id="3ad4b20e-2cbc-4d8b-a21d-b69eee098e8c" name="Changes" comment="change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/software/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/software/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/test/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,8 +113,17 @@
       <workItem from="1747219801496" duration="229000" />
       <workItem from="1747220058400" duration="1213000" />
       <workItem from="1747228779445" duration="848000" />
-      <workItem from="1747242989389" duration="9973000" />
+      <workItem from="1747242989389" duration="13575000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <option name="closed" value="true" />
+      <created>1747254889134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747254889134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
 </project>
